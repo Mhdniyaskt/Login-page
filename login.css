@@ -1,0 +1,167 @@
+.container1 {
+    width: 100%;
+    height: 100vh;
+    background: #285956;
+
+    position: relative;
+
+
+
+
+
+
+}
+
+body {
+    margin: 0;
+}
+
+.main-body {
+    width: 95%;
+    height: 90%;
+
+    position: absolute;
+
+    background: black;
+
+    border-radius: 30px;
+    margin: 50px;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.para a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+
+
+
+}
+
+
+
+
+
+.para1 {
+    color: #fff;
+
+
+}
+
+.para1 {
+    margin-top: 150px;
+
+
+}
+
+.color {
+    color: #fff;
+
+}
+
+.Rigth-section {
+    margin-left: 15%;
+    margin-top: 50px;
+    padding-top: 20px;
+
+}
+
+.box {
+    width: 500px;
+    height: 50px;
+    border-radius: 7px;
+
+}
+
+.forgot a {
+    color: seashell;
+    padding-left: 400px;
+    font-size: small;
+
+
+
+}
+
+.box1 {
+    width: 500px;
+    height: 50px;
+    border-radius: 7px;
+    background: #43b27f;
+    color: #fff;
+    font-size: medium;
+    margin-top: 50px;
+
+
+
+}
+
+.icon img {
+    margin: 10px;
+}
+
+
+
+.icon {
+    margin-left: 150px;
+    margin-top: 40px;
+
+
+
+}
+
+.ctn {
+
+
+    margin-left: 380px;
+    margin-top: 100px;
+
+
+}
+
+.ctn a {
+    color: #fff;
+    font-size: 15px;
+}
+
+.left-section {
+    width: 650px;
+    height: 790px;
+    background: #43b27f;
+    float: left;
+    position: relative;
+    margin-left: 50%;
+    margin-top: 80px;
+    border-radius: 25px;
+
+}
+
+.heading h1 {
+    color: #fff;
+    font-size: 58px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.heading p {
+    color: #fff;
+
+
+}
+
+.heading h3 {
+    color: #fff;
+}
