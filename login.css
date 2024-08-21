@@ -165,3 +165,18 @@ body {
 .heading h3 {
     color: #fff;
 }
+.card-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.card{
+    width: 600px;
+    background-color: #fff;
+    border-radius:15px ;
+}
+.card-content{
+padding: 35px ;
+
+}
+
